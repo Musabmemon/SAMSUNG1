@@ -38,4 +38,15 @@
       transition: .5s linear  ;
   
 }
+
+.text{
+color: white;
+-webkit-text-fill-color: transparent ;
+font-family: outfit;
+font-size: 9vw;
+/* opacity: 30%; */
+-webkit-text-stroke: 1px white;
+position: absolute;
+overflow: hidden;
+}
   
